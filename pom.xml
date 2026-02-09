@@ -2,5 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>demo</artifactId>
-  <Version>1.0</Version>
+  <version>1.0</version>
 </project>
